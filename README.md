@@ -27,7 +27,7 @@ You...you...can't be serious. They...they'll blame me, the god of mischief.  Thi
 
 **Loki:** WHAT!? Nooooo! I am Loki of Asgard, the god of mischief. I am not meant for such a trivial task as cleaning the sewers!  You're trying to trick me, aren't you?! What are your true motives?! I demand to know now, creature! I do not kneel before anyone!
 
-**Rhymerosaurus:** You need to travel into the depths of the sewers and fight the sewer monster.  There is no other way to stop the sewage floor.  There are many trials to overcome before you will be able to reach the sewer monster, such as passing through the Gates of Axberath, and defeating the guardian of infinite mirrors.
+**Rhymerosaurus:** You need to travel into the depths of the sewers and fight the sewer monster.  There is no other way to stop the sewage flood.  There are many trials to overcome before you will be able to reach the sewer monster, such as passing through the Gates of Axberath, and defeating the guardian of infinite mirrors.
 
 **Loki:** You would try and have me go through...the Gates of Axberath? The infinite mirrors? And fight the...sewer monster? Are you mad?! I refuse. There is no way I give in to these demands...
 
