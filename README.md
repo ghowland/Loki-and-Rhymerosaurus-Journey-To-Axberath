@@ -1,7 +1,5 @@
 # Loki and Rhymerosaurus in the Journey to Axberath
 
-
-
 **Loki:** I am Loki of Asgard. Kneel before me, Rhymerosaurus. I said, KNEEL!  stamps his sceptre on the ground
 
 
@@ -119,7 +117,7 @@ You must answer me! The fate of Asgard, my people, rest on this question.
 
 I will endure this task. Do what you will to mock me, but I can't run away now. I have caused this myself.
 
-**Rhymerosaurus:** Theres no problem with sewage now.  The problem is that there will be sewage everyone soon, if the sewage monster is not slain or otherwise convinced to stop the Sewage Storm that he is brewing.
+**Rhymerosaurus:** Theres no problem with sewage now.  The problem is that there will be sewage everywhere soon, if the sewage monster is not slain or otherwise convinced to stop the Sewage Storm that he is brewing.
 
 **Loki:** Loki looks up, a tiny glimmer of hope in his eyes
 
