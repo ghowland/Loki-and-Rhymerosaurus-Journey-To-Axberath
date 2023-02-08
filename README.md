@@ -25,7 +25,7 @@ Behold! The Sigil of The Trickster, an ancient symbol of my lineage that I use t
 
 You...you...can't be serious. They...they'll blame me, the god of mischief.  This will be a disaster of my own creation.  I will be the butt of the joke! Well, no, you can't do that! I command you to stay! What are your demands, creature!
 
-**Rhymerosaurus:** You need to travel into the depths of the sewers and fight the sewer monster.  There is not other way to stop the sewage floor.  There are many trials to overcome before you will be able to reach the sewer monster, such as passing through the Gates of Axberath, and defeating the guardian of infinite mirrors.
+**Rhymerosaurus:** You need to travel into the depths of the sewers and fight the sewer monster.  There is no other way to stop the sewage floor.  There are many trials to overcome before you will be able to reach the sewer monster, such as passing through the Gates of Axberath, and defeating the guardian of infinite mirrors.
 
 **Loki:** WHAT!? Nooooo! I am Loki of Asgard, the god of mischief. I am not meant for such a trivial task as cleaning the sewers!  You're trying to trick me, aren't you?! What are your true motives?! I demand to know now, creature! I do not kneel before anyone!
 
