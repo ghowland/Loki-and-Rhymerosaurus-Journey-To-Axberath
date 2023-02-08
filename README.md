@@ -143,7 +143,7 @@ I have a question for you. What are the results of being exposed to sewage? Is i
 
 **Loki:** So...it is a fate worse than death to be exposed to sewage for more than a short period of time? It sounds as though we may be entering a place of no return, creature. Are you sure you wish to accompany me? I have no idea what we shall face in these caverns.
 
-**Rhymerosaurus:** You can survive it for a period of time, it will just make you throw up from the smell, and drive you mad in that it is everywhere and you are filthy.  It will be hard to sleep because of the stench, and no shower will clean you off.  It may be difficult to eat, and you may throw up the food, which would lead to any mortal dying, and probably very unpleasant fot a god.
+**Rhymerosaurus:** You can survive it for a period of time, it will just make you throw up from the smell, and drive you mad in that it is everywhere and you are filthy.  It will be hard to sleep because of the stench, and no shower will clean you off.  It may be difficult to eat, and you may throw up the food, which would lead to any mortal dying, and probably very unpleasant for a god.
 
 **Loki:** It is your job to fight a massive, eldritch creature made of sewage? What did you expect your job description would be when you accepted the offer?
 
