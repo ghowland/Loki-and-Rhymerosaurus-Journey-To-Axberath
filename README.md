@@ -229,7 +229,7 @@ Loki walks past a large, green metal tube that seems to be used to transport sew
 
 Oh, I really do not like this smell...
 
-**Rhymerosaurus:** No one does.  Except the sewage creature.  There are two opposing cave entrances ahead, the Laminox and Tribenta live in opposite cave entrances.  Perhaps you could create an illusion of a Tribenta youngling being attacked by Laminox, and the Tribenta would attack, passing Laminox, and do something similar in reverse, so they become enraged at each other and war in the middle corridor, while we are away at a safe distance?
+**Rhymerosaurus:** No one does.  Except the sewage creature.  There are two opposing cave entrances ahead, the Laminox and Tribenta live in opposite cave entrances.  Perhaps you could create an illusion of a Tribenta youngling being attacked by Laminox, and the Tribenta would attack passing Laminox, and do something similar in reverse, so they become enraged at each other and war in the middle corridor, while we are away at a safe distance?
 
 **Loki:** Loki looks at the creature and nods with a serious expression
 
