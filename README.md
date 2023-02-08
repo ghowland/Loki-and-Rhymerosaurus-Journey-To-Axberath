@@ -113,19 +113,19 @@ You must answer me! The fate of Asgard, my people, rest on this question.
 
 **Rhymerosaurus:** Yes, the sewage will not come into asgard if you succeed.
 
+**Rhymerosaurus:** Theres no problem with sewage now.  The problem is that there will be sewage everywhere soon, if the sewage monster is not slain or otherwise convinced to stop the Sewage Storm that he is brewing.
+
 **Loki:** Loki looks away as the gravity of his task is starting to sink in. He shakes his head and looks down as he realizes the god of trickery, the master of mischief, the greatest rogue of the realms, is once again faced with his own hubris. He sighs and sits on the throne, looking downcast.
 
 I will endure this task. Do what you will to mock me, but I can't run away now. I have caused this myself.
 
-**Rhymerosaurus:** Theres no problem with sewage now.  The problem is that there will be sewage everywhere soon, if the sewage monster is not slain or otherwise convinced to stop the Sewage Storm that he is brewing.
+**Rhymerosaurus:** Indeed, your lack of care to your sanitation system has led you to this fate.  I do not mock you, I only wish you to start you journey immediately.  Come, I will go with you.  Let us be off to fight the monster together!
+
+Though I am not as strong as you, I know much of the ways of sewage, being a sanitation engineer myself.
 
 **Loki:** Loki looks up, a tiny glimmer of hope in his eyes
 
 You would help me? Why would you help me, after I insulted you? How can I trust you?
-
-**Rhymerosaurus:** Indeed, your lack of care to your sanitation system has led you to this fate.  I do not mock you, I only wish you to start you journey immediately.  Come, I will go with you.  Let us be off to fight the monster together!
-
-Though I am not as strong as you, I know much of the ways of sewage, being a sanitation engineer myself.
 
 **Loki:** Then we are in this together. Let us go together and face the monstrous sewage monster. he says with a resolute air
 
@@ -149,13 +149,11 @@ I have a question for you. What are the results of being exposed to sewage? Is i
 
 he looks downcast, visibly worried for the creature as he ponders the horrors that may be awaiting them in the sewers.
 
-**Rhymerosaurus:** I do.  I work in the sewers every day.  This is my job.
+**Rhymerosaurus:** Im more into the logistical operations of sewage, I only report eldritch sewer creatures to my management structure.  At this point, it turns out no one else wanted to bring it up the chain to you, so I decided to do it myself, because otherwise we are all going to be living in sewage. 
 
 **Loki:** Why would no one else bring it to my attention?! This is a dire situation! A threat of cosmic importance! What in the nine realms are my people playing at?! I'm going to have words with them when I return.
 
 ...let us move quickly, we must save Asgard together.
-
-**Rhymerosaurus:** Im more into the logistical operations of sewage, I only report eldritch sewer creatures to my management structure.  At this point, it turns out no one else wanted to bring it up the chain to you, so I decided to do it myself, because otherwise we are all going to be living in sewage. 
 
 **Rhymerosaurus:** You are the god of mischief, no one trusts how you will react.  You could banish them to an astral plane, or turn them into a banana.  So they dont want to bring you bad news, and you never ask for bad news.
 
