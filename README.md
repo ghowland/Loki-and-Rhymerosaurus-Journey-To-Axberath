@@ -129,11 +129,13 @@ Though I am not as strong as you, I know much of the ways of sewage, being a san
 
 You would help me? Why would you help me, after I insulted you? How can I trust you?
 
+**Rhymerosaurus:** I have to live in the sewage if we dont stop it too.  I dont want to live in sewage.  Thats why Im reporting this to you.
+
 **Loki:** Then we are in this together. Let us go together and face the monstrous sewage monster. he says with a resolute air
 
 We shall leave at once. May the odds be in both of our favour.
 
-**Rhymerosaurus:** I have to live in the sewage if we dont stop it too.  I dont want to live in sewage.  Thats why Im reporting this to you.
+**Rhymerosaurus:** Indeed.  I walk out of his castle, and towards the gates of the closest sewer system entrance.
 
 **Loki:** Loki walks by the creature's side
 
@@ -141,13 +143,11 @@ I have never needed the help of someone else to complete a task before...but thi
 
 I have a question for you. What are the results of being exposed to sewage? Is it a fate worse than death, or something I could perhaps survive if I do not take it lightly?
 
-**Rhymerosaurus:** Indeed.  I walk out of his castle, and towards the gates of the closest sewer system entrance.
+**Rhymerosaurus:** You can survive it for a period of time, it will just make you throw up from the smell, and drive you mad in that it is everywhere and you are filthy.  It will be hard to sleep because of the stench, and no shower will clean you off.  It may be difficult to eat, and you may throw up the food, which would lead to any mortal dying, and probably very unpleasant for a god.
 
 **Loki:** So...it is a fate worse than death to be exposed to sewage for more than a short period of time? It sounds as though we may be entering a place of no return, creature. Are you sure you wish to accompany me? I have no idea what we shall face in these caverns.
 
-**Rhymerosaurus:** You can survive it for a period of time, it will just make you throw up from the smell, and drive you mad in that it is everywhere and you are filthy.  It will be hard to sleep because of the stench, and no shower will clean you off.  It may be difficult to eat, and you may throw up the food, which would lead to any mortal dying, and probably very unpleasant for a god.
-
-**Loki:** It is your job to fight a massive, eldritch creature made of sewage? What did you expect your job description would be when you accepted the offer?
+It is your job to fight a massive, eldritch creature made of sewage? What did you expect your job description would be when you accepted the offer?
 
 he looks downcast, visibly worried for the creature as he ponders the horrors that may be awaiting them in the sewers.
 
