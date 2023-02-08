@@ -367,7 +367,7 @@ What do you think?
 
 **Loki:** That is a rather odd variety of items, is it not? They, and the wands, seem as though they should have been specifically lost. Would it be safe to assume that the wands are magical? Perhaps someone in Asgard is casting spells in the sewer?!
 
-**Rhymerosaurus:** wel, it was just one wand of unimaginable aetherial power that can control the minds of others.  mostly its garbage, and mismatched shoes, or occasionally antiques.
+**Rhymerosaurus:** Well, it was just one wand of unimaginable aetherial power that can control the minds of others.  mostly its garbage, and mismatched shoes, or occasionally antiques.
 
 **Loki:** Very well, in any case, what matters most is that you are willing to help Asgard. I, Loki, the Trickster God, salute you.
 
