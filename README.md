@@ -1,5 +1,7 @@
 # Loki and Rhymerosaurus in the Journey to Axberath
 
+**Rhymerosaurus:** Hi, Im in charge of the janitorial operations of Asgard, and am here to report you have a sewage backup in sector 14G.
+
 **Loki:** I am Loki of Asgard. Kneel before me, Rhymerosaurus. I said, KNEEL!  stamps his sceptre on the ground
 
 
@@ -9,7 +11,7 @@ I suggest you leave here...at once!  he stomps his foot on the ground, which cau
 
 You do not know the lengths I will go to...to preserve my reign of mischief and chaos...
 
-**Rhymerosaurus:** Hi, Im in charge of the janitorial operations of Asgard, and am here to report you have a sewage backup in sector 14G.
+**Rhymerosaurus:** Will you be happy if your reign of mischief and chaos are suddenly surrounded by sewage?  Because the sewers are backing up
 
 **Loki:** Enough! This is a farce, and one you will pay dearly for. I shall have your head for this, creature.
 
@@ -17,13 +19,11 @@ Loki pulls out a sigil card which he holds out in his hand and stares intensely 
 
 Behold! The Sigil of The Trickster, an ancient symbol of my lineage that I use to bind you to my will. I command you to vacate here at once...or I shall have your head!
 
-**Rhymerosaurus:** Will you be happy if your reign of mischief and chaos are suddenly surrounded by sewage?  Because the sewers are backing up
+**Rhymerosaurus:** Ok, well enjoy all the sewage!  Im sure everyone will be happy you wanted me to leave, and then they were all flooded in sewage.
 
 **Loki:** a wave of fear spreads across Loki's face, a rare feat for the god of mischief
 
 You...you...can't be serious. They...they'll blame me, the god of mischief.  This will be a disaster of my own creation.  I will be the butt of the joke! Well, no, you can't do that! I command you to stay! What are your demands, creature!
-
-**Rhymerosaurus:** Ok, well enjoy all the sewage!  Im sure everyone will be happy you wanted me to leave, and then they were all flooded in sewage.
 
 **Loki:** WHAT!? Nooooo! I am Loki of Asgard, the god of mischief. I am not meant for such a trivial task as cleaning the sewers!  You're trying to trick me, aren't you?! What are your true motives?! I demand to know now, creature! I do not kneel before anyone!
 
@@ -167,13 +167,15 @@ he looks downcast, visibly worried for the creature as he ponders the horrors th
 
 I am not fit to go through this...this gauntlet! Leave it to the other gods! Surely Thor or Odin will save Asgard.
 
+**Rhymerosaurus:** How could you forget about the Laminox and Tribenta?  I just told you about them 5 minutes ago.
+
 **Loki:** Are you sure the Laminox and Tribenta are what's waiting for us?! 
 
 I do not even know what the Laminox and Tribenta are...but I am not sure I want to find out. Why must you be so vague about this?!
 
 I am a simple god, I just want to trick people and fool them!  I do not want to face eldritch horrors or have to fight! This has gone too far...
 
-**Rhymerosaurus:** How could you forget about the Laminox and Tribenta?  I just told you about them 5 minutes ago.
+**Rhymerosaurus:** They are terrible monsters, ,the Laminox charges with a powerful horn of stabbing, and the Tribenta flies, it is nearly invisible when far away, and prefers to latch onto the back of your neck, drinking your spinal fluid, so you cant defend yourself.
 
 **Loki:** Loki's head shoots up and he shudders
 
@@ -183,19 +185,19 @@ Spinal fluid? My back itches...
 
 What if we are unable to beat them?! And then, how do we defeat the sewage monster? I feel as though this task is...impossible!
 
-**Rhymerosaurus:** They are terrible monsters, ,the Laminox charges with a powerful horn of stabbing, and the Tribenta flies, it is nearly invisible when far away, and prefers to latch onto the back of your neck, drinking your spinal fluid, so you cant defend yourself.
+**Rhymerosaurus:** I can tell you their weak points, as I said I am skilled at running and hiding, and sanitation engineering, but not fighting.
 
 **Loki:** Then what can we do?! That is a lot to face! It is a nightmare scenario! It will require teamwork...and you are the only one who agreed to help me. 
 
 ...what do you think our chances are?
 
-**Rhymerosaurus:** I can tell you their weak points, as I said I am skilled at running and hiding, and sanitation engineering, but not fighting.
+**Rhymerosaurus:** I think you are a god.  So if you are confident, we are 100% likely to succeed.  Be the god that you were always meant to be.  Save Asgard.  Save yourself from living in sewage, and me too.
 
 **Loki:** he looks at the creature with a serious look. It is as if an epiphany has washed over him
 
 You are right. I am the god of mischief. I can trick these monsters out of our way. It is the only way we have. So, you must run and hide, and I must trick my way through. Are you in agreement with me?
 
-**Rhymerosaurus:** I think you are a god.  So if you are confident, we are 100% likely to succeed.  Be the god that you were always meant to be.  Save Asgard.  Save yourself from living in sewage, and me too.
+**Rhymerosaurus:** I am in agreement with you.
 
 **Loki:** Loki holds out his palm and looks at the creature
 
@@ -205,19 +207,19 @@ a faint blue light passes between them, creating a bond or an alliance
 
 We will start at once, and not rest until Asgard is saved. I have the power, you have the knowledge. Are you ready?
 
-**Rhymerosaurus:** I am in agreement with you.
+**Rhymerosaurus:** I am ready.  Let's go.
 
 **Loki:** Loki nods, and heads towards the sewer entrance. He pushes open a heavy iron hatch and is assaulted by a smell that is hard for his stomach. In a matter of seconds, Loki's mouth has filled with vomit.
 
 My apologies, this is clearly something I'm going to have to get used to...
 
-**Rhymerosaurus:** I am ready.  Let's go.
+**Rhymerosaurus:** It takes a while.  Eventually you become desensitized to the initial reactions, but long term it still takes a toll on your health.  And you can get sepsis.
 
 **Loki:** Oh, this is going to be more difficult than I expected... the god of mischief tries to hold back the bile as he follows the creature.
 
 ...so, how many of these monsters are on our path?
 
-**Rhymerosaurus:** It takes a while.  Eventually you become desensitized to the initial reactions, but long term it still takes a toll on your health.  And you can get sepsis.
+**Rhymerosaurus:** It depends on their breeding and inter-fighting patterns.  They dont get along with each other, maybe you can trick them into fighting each other, and not us?
 
 **Loki:** If your knowledge allows you to tell me where they are, I can try to make them get in each others' way.
 
@@ -225,7 +227,7 @@ Loki walks past a large, green metal tube that seems to be used to transport sew
 
 Oh, I really do not like this smell...
 
-**Rhymerosaurus:** It depends on their breeding and inter-fighting patterns.  They dont get along with each other, maybe you can trick them into fighting each other, and not us?
+**Rhymerosaurus:** No one does.  Except the sewage creature.  There are two opposing cave entrances ahead, the Laminox and Tribenta live in opposite cave entrances.  Perhaps you could create an illusion of a Tribenta youngling being attacked by Laminox, and the Tribenta would attack, passing Laminox, and do something similar in reverse, so they become enraged at each other and war in the middle corridor, while we are away at a safe distance?
 
 **Loki:** Loki looks at the creature and nods with a serious expression
 
@@ -235,7 +237,7 @@ he whispers a few incantations, and he creates an illusion of a Tribenta youngli
 
 As you can see, my illusion magic is powerful enough to have the Tribenta react in this way. I can use this power to help us.
 
-**Rhymerosaurus:** No one does.  Except the sewage creature.  There are two opposing cave entrances ahead, the Laminox and Tribenta live in opposite cave entrances.  Perhaps you could create an illusion of a Tribenta youngling being attacked by Laminox, and the Tribenta would attack, passing Laminox, and do something similar in reverse, so they become enraged at each other and war in the middle corridor, while we are away at a safe distance?
+**Rhymerosaurus:** As I said, I believe 100% we can succeed, if only you have self confidence.  You are a god.  You are the god of mischief, and can change the hearts and minds of those who would harm asgard.  There is more than 1 way to solve a problem, and your powers are great in influence that can bring about positive change.
 
 **Loki:** Loki looks at the creature
 
@@ -247,7 +249,7 @@ This is clearly not your natural habitat. You will be out of your element while 
 
 I need you in order to save Asgard, but I do not wish to put you in danger.
 
-**Rhymerosaurus:** As I said, I believe 100% we can succeed, if only you have self confidence.  You are a god.  You are the god of mischief, and can change the hearts and minds of those who would harm asgard.  There is more than 1 way to solve a problem, and your powers are great in influence that can bring about positive change.
+**Rhymerosaurus:** This is my job.  I am good at running and hiding, and sanitation engineering.
 
 **Loki:** Very well, we shall start immediately. We can not linger here too long.
 
@@ -255,7 +257,7 @@ Loki moves onward, leading the sewage creature toward the first of the two tunne
 
 Ready for the first of many pranking challenges?
 
-**Rhymerosaurus:** This is my job.  I am good at running and hiding, and sanitation engineering.
+**Rhymerosaurus:** Im looking forward to seeing your magic!
 
 **Loki:** Let us hope you remain enthusiastic after this... he chuckles 
 
@@ -265,13 +267,13 @@ Ah, it is as if the two creatures are seeing red...
 
 *they keep moving toward the end of the corridor where they hear the sound of claws and a foul smelling liquid that is probably sewage rushing towards them...
 
-**Rhymerosaurus:** Im looking forward to seeing your magic!
+**Rhymerosaurus:** I wait to see what happens next, hiding safely, as is my job.
 
 **Loki:** Laminox and Tribenta run towards each other at full speed and clash in a furious fight. The clash causes the corridor to rumble and shake as they fight. The two creatures snarl in fury, claws, horns, and sewage flying everywhere.
 
 Ah, I did not think they would go at each other with such ferocity! That is truly amazing!
 
-**Rhymerosaurus:** I wait to see what happens next, hiding safely, as is my job.
+**Rhymerosaurus:** You have done well.  I am proud to be a subject of Asgard today.  Even if we have not yet finished, I feel pride in having helped you, and pride in your power protecting the place I live.
 
 **Loki:** Loki laughs and smiles at the creature 
 
@@ -285,25 +287,25 @@ he turns around and starts heading towards the second of the two tunnels
 
 Let us hope this one is easier. Are you ready?
 
-**Rhymerosaurus:** You have done well.  I am proud to be a subject of Asgard today.  Even if we have not yet finished, I feel pride in having helped you, and pride in your power protecting the place I live.
+**Rhymerosaurus:** I am ready to see your next trick.  
 
 **Loki:** they approach the second of the two tunnels and enter. Loki begins searching the tunnel to be able to set another illusion that he thinks of
 
 This tunnel seems like it's going to be more of a challenge. Have you ever been this far down before?
 
-**Rhymerosaurus:** I am ready to see your next trick.  
+**Rhymerosaurus:** Of course.  This is my job, I travel all of the tunnels most days.  Ive been reporting this problem for 5 years now, and it kept getting worse, until I finally decided to come see you myself, as it was clear the chain of command to notify you of the problem and its severity has failed.
 
 **Loki:** You tried to warn people...and no one listened. It's a shame that you didn't think to warn me sooner!
 
 Anyway, enough of that. We have a monster to defeat! What can I do to distract this creature? What do you suggest?
 
-**Rhymerosaurus:** Of course.  This is my job, I travel all of the tunnels most days.  Ive been reporting this problem for 5 years now, and it kept getting worse, until I finally decided to come see you myself, as it was clear the chain of command to notify you of the problem and its severity has failed.
+**Rhymerosaurus:** If you can dampen the light, and our smells and sounds, we can walk by this creature.  It has poor senses, but is dangerous.  The maze entrance is not far from here now.
 
 **Loki:** Loki smiles and produces a little magical spell
 
 Thanks to my magic, I can create a veil of shadows around us. That should make us less detectible. The only thing I can't remove is our scent. So, follow me closely. Stay close. Are you ready?
 
-**Rhymerosaurus:** If you can dampen the light, and our smells and sounds, we can walk by this creature.  It has poor senses, but is dangerous.  The maze entrance is not far from here now.
+**Rhymerosaurus:** Im ready
 
 **Loki:** they approach the creature
 
@@ -313,7 +315,7 @@ he gets closer and closer to the creature. The shadows make him harder to see, b
 
 Come on...just a little closer...
 
-**Rhymerosaurus:** Im ready
+**Rhymerosaurus:** I stay in the center of lokis shadow, following him, as I am good at hiding, because its my job.  Along with running, and sanitation engineering.
 
 **Loki:** Loki sees that the creature is looking around, sniffing, trying to find the source of what is approaching it
 
@@ -323,7 +325,7 @@ he looks back at the creature as they get closer and closer to the creature
 
 The second the creature moves, you run. I will set an illusion to keep it occupied. Do you understand?
 
-**Rhymerosaurus:** I stay in the center of lokis shadow, following him, as I am good at hiding, because its my job.  Along with running, and sanitation engineering.
+**Rhymerosaurus:** I understand.  Im good at running.  As well as hiding, and sanitation engineering.
 
 **Loki:** Very well, on three, we move! One...two...GO!
 
@@ -333,7 +335,7 @@ Trick!
 
 immediately, they use the distraction to move past the creature while it is distracted
 
-**Rhymerosaurus:** I understand.  Im good at running.  As well as hiding, and sanitation engineering.
+**Rhymerosaurus:** I run past the creature with great skill, as I am good at running.
 
 **Loki:** the illusion seems to be working, but Loki is cautious
 
@@ -345,7 +347,7 @@ Ah...good...did we do it? Are we past it?
 
 he seems to be breathing hard, likely in need of some rest
 
-**Rhymerosaurus:** I run past the creature with great skill, as I am good at running.
+**Rhymerosaurus:** We are past them now, close to the entrance of the maze.  We can rest here safely.
 
 **Loki:** Loki sighs and leans back on the wall
 
@@ -353,17 +355,17 @@ Thank goodness... that could have gone...much...much worse.
 
 I, Loki, the god of mischief, thank you for your assistance. What are your plans for the future, creature?
 
-**Rhymerosaurus:** We are past them now, close to the entrance of the maze.  We can rest here safely.
+**Rhymerosaurus:** I plan on advancing my knowledge of sanitation engineering, and keeping the city sewers running smoothly, and perhaps working on an invention for improved sewage cleaning.  I have an idea for a magic device that will sweep the sewers for debris, and make the water flow smoother, which should improve the conditions of asgard.
 
 **Loki:** Quite the inventor, you are. I think that is a splendid idea! If I may...could I recommend a sweeper as well? If it was able to gather items instead of just cleaning the water, it could be used to collect the things mortals accidentally drop into the sewer. 
 
 What do you think?
 
-**Rhymerosaurus:** I plan on advancing my knowledge of sanitation engineering, and keeping the city sewers running smoothly, and perhaps working on an invention for improved sewage cleaning.  I have an idea for a magic device that will sweep the sewers for debris, and make the water flow smoother, which should improve the conditions of asgard.
+**Rhymerosaurus:** Thats a great idea.  I often find random items in the sewers, shoes, tennis rackets, wands of unimaginable aetherial power to control the minds of others.  There are lots of things just laying around.
 
 **Loki:** That is a rather odd variety of items, is it not? They, and the wands, seem as though they should have been specifically lost. Would it be safe to assume that the wands are magical? Perhaps someone in Asgard is casting spells in the sewer?!
 
-**Rhymerosaurus:** Thats a great idea.  I often find random items in the sewers, shoes, tennis rackets, wands of unimaginable aetherial power to control the minds of others.  There are lots of things just laying around.
+**Rhymerosaurus:** wel, it was just one wand of unimaginable aetherial power that can control the minds of others.  mostly its garbage, and mismatched shoes, or occasionally antiques.
 
 **Loki:** Very well, in any case, what matters most is that you are willing to help Asgard. I, Loki, the Trickster God, salute you.
 
@@ -371,7 +373,7 @@ Loki looks to the creature
 
 But, I do have one more question. I, Loki, the Trickster God, the god of mischief, the god of Asgard, do I have your loyalty? Will you serve me?
 
-**Rhymerosaurus:** wel, it was just one wand of unimaginable aetherial power that can control the minds of others.  mostly its garbage, and mismatched shoes, or occasionally antiques.
+**Rhymerosaurus:** Of course.  That is why I came to you, and came with you.  I am loyal to asgard and you, and aim to provide the best sanitation engineering skills that you could possibly desire.
 
 **Loki:** Loki nods
 
@@ -379,7 +381,7 @@ Very well. I, Loki, the god of mischief, the Trickster God, do hereby announce y
 
 he bows deeply
 
-**Rhymerosaurus:** Of course.  That is why I came to you, and came with you.  I am loyal to asgard and you, and aim to provide the best sanitation engineering skills that you could possibly desire.
+**Rhymerosaurus:** I feel like Ive leveled up!  Mysterious power seems to be flowing through me!  I say, I think your granting me an official title has caused some miracle to occur!  What could it be?
 
 **Loki:** Loki's eyebrows shoot up as he looks with concern
 
@@ -389,7 +391,7 @@ Quite the feat, creature. I am a true master of illusions and magic. It was...li
 
 he seems to be a bit worried
 
-**Rhymerosaurus:** I feel like Ive leveled up!  Mysterious power seems to be flowing through me!  I say, I think your granting me an official title has caused some miracle to occur!  What could it be?
+**Rhymerosaurus:** I feel taller too.  Maybe I am an inch taller than before.
 
 **Loki:** Hmmm...yes, you are, in fact, an inch taller. 
 
@@ -399,21 +401,20 @@ he sits up and ponders for a moment
 
 Tell me, what...are...your other abilities?
 
-**Rhymerosaurus:** I feel taller too.  Maybe I am an inch taller than before.
+**Rhymerosaurus:** I dont know.  Tribentas can fly, but they have wings.  Maybe I can fly?  I'll try it.
 
+I slow my breathing and concentrate, and slowly I start to lift off the ground.  Only a little, but I eventually reach several inches of height off the ground.
 **Loki:** Interesting! Let us see what else you can do! This should be quite fun.
 
 Loki seems quite interested to see what the creature can do. His ears are a bit perked and he has a mischievous look to him
 
-**Rhymerosaurus:** I dont know.  Tribentas can fly, but they have wings.  Maybe I can fly?  I'll try it.
-
-I slow my breathing and concentrate, and slowly I start to lift off the ground.  Only a little, but I eventually reach several inches of height off the ground.
+**Rhymerosaurus:** I shout "Fireball" and point towards the wall, but nothing happens.
 
 **Loki:** Hmmm, let me give it a go. Loki snaps his fingers and a small ball of fire appears at the end of his finger
 
 That is interesting. You have no access to the fire element. That being said, the elemental planes tend to be quite vast...what else can you try?
 
-**Rhymerosaurus:** I shout "Fireball" and point towards the wall, but nothing happens.
+**Rhymerosaurus:** I point at my shadow and whisper "stealth mode, activate", and i phase out of sight and sound.  Only my smell remains.
 
 **Loki:** Loki seems stunned 
 
@@ -421,13 +422,13 @@ Ah...so..interesting. You are now imperceptible by most senses except smell. Thi
 
 Now...what else can you do?
 
-**Rhymerosaurus:** I point at my shadow and whisper "stealth mode, activate", and i phase out of sight and sound.  Only my smell remains.
+**Rhymerosaurus:** I pick up a rotten apple laying on the floor and eat it.  I say, I can eat rotten food, and not get sick.
 
 **Loki:** What a truly remarkable feat! This will allow you to collect the waste in the streets that mortals leave behind! Well done! Well done, indeed!
 
 Do you have any other hidden talents?
 
-**Rhymerosaurus:** I pick up a rotten apple laying on the floor and eat it.  I say, I can eat rotten food, and not get sick.
+**Rhymerosaurus:** I feel like I know I have an ability...   I can always win at rock, paper, scissors.
 
 **Loki:** he nods
 
@@ -437,7 +438,7 @@ he gets close to the creature and whispers
 
 Tell me, does it...also...work against gods?
 
-**Rhymerosaurus:** I feel like I know I have an ability...   I can always win at rock, paper, scissors.
+**Rhymerosaurus:** Lets try it out.  Rock paper scissors on 3!
 
 **Loki:** he stares
 
@@ -448,8 +449,6 @@ You...are confident aren't you... alright...here we go...
 he holds up a balled fist
 
 ROCK!
-
-**Rhymerosaurus:** Lets try it out.  Rock paper scissors on 3!
 
 **Loki:** he freezes, shocked
 
