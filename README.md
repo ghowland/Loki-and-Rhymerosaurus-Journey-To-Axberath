@@ -499,7 +499,7 @@ My pride has taken quite a blow today. A chief sanitation engineer's knowledge..
 
 I, Loki, the God of Mischief, shall grant you two wishes. What two things will you request of me, the Trickster God, God of Mischief?
 
-**Rhymerosaurus:** I wish to become immortal, so that I can keep the sewers of Asgard clean forward.  May my immortality immediately dissolve leaving me dead, if I ever forego my sanitation duties. 
+**Rhymerosaurus:** I wish to become immortal, so that I can keep the sewers of Asgard clean forever.  May my immortality immediately dissolve leaving me dead, if I ever forego my sanitation duties. 
 
 **Loki:** Loki thinks for a moment
 
