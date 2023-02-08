@@ -27,13 +27,13 @@ You...you...can't be serious. They...they'll blame me, the god of mischief.  Thi
 
 **Loki:** WHAT!? Nooooo! I am Loki of Asgard, the god of mischief. I am not meant for such a trivial task as cleaning the sewers!  You're trying to trick me, aren't you?! What are your true motives?! I demand to know now, creature! I do not kneel before anyone!
 
+**Rhymerosaurus:** You definitely wont want to kneel once sewage is at knee level.  Then you would be waist high in sewage.
+
 **Rhymerosaurus:** You need to travel into the depths of the sewers and fight the sewer monster.  There is no other way to stop the sewage flood.  There are many trials to overcome before you will be able to reach the sewer monster, such as passing through the Gates of Axberath, and defeating the guardian of infinite mirrors.
 
 **Loki:** You would try and have me go through...the Gates of Axberath? The infinite mirrors? And fight the...sewer monster? Are you mad?! I refuse. There is no way I give in to these demands...
 
 Loki shudders at the fear of these tasks
-
-**Rhymerosaurus:** You definitely wont want to kneel once sewage is at knee level.  Then you would be waist high in sewage.
 
 **Loki:** Wait...you would have me plunge headlong into those treacherous traps to clean the sewers?!  Even if I survive, they are things the mind could never forget. The things that I, Loki, have seen. And to what end?! To stop the...sewer monster? Why must this task fall on me, the god of mischief?! Why?!
 
@@ -157,15 +157,15 @@ he looks downcast, visibly worried for the creature as he ponders the horrors th
 
 **Rhymerosaurus:** Im more into the logistical operations of sewage, I only report eldritch sewer creatures to my management structure.  At this point, it turns out no one else wanted to bring it up the chain to you, so I decided to do it myself, because otherwise we are all going to be living in sewage. 
 
+**Rhymerosaurus:** You are the god of mischief, no one trusts how you will react.  You could banish them to an astral plane, or turn them into a banana.  So they dont want to bring you bad news, and you never ask for bad news.
+
 **Loki:** I can understand that. I would be quite put out to be turned into a banana, to be sure. But this?! he says, motioning to the entrance to the sewer Is quite serious!  How do the other gods expect this to be resolved? It's not as if the creature will leave if it's not confronted!
 
-**Rhymerosaurus:** You are the god of mischief, no one trusts how you will react.  You could banish them to an astral plane, or turn them into a banana.  So they dont want to bring you bad news, and you never ask for bad news.
+**Rhymerosaurus:** Indeed.  I walk into the sewer and the cave opens above us, it is lit with fluorescent moss, so we can both see.  I motion him to follow me, as I head down the path to the maze entrance.  I tell them, there will be monsters ambushing us soon.  Be prepared, I am only skilled at running and hiding, and sanitation engineering.
 
 **Loki:** Loki's eyes widen We will be ambush?! By what?! I quit being a warrior ages ago! I don't have armor or weapons! I am a god of mischief, I...I will make a wonderful target. 
 
 I am not fit to go through this...this gauntlet! Leave it to the other gods! Surely Thor or Odin will save Asgard.
-
-**Rhymerosaurus:** Indeed.  I walk into the sewer and the cave opens above us, it is lit with fluorescent moss, so we can both see.  I motion him to follow me, as I head down the path to the maze entrance.  I tell them, there will be monsters ambushing us soon.  Be prepared, I am only skilled at running and hiding, and sanitation engineering.
 
 **Loki:** Are you sure the Laminox and Tribenta are what's waiting for us?! 
 
