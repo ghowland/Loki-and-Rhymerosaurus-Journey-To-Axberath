@@ -1,6 +1,6 @@
 # Loki and Rhymerosaurus in the Journey to Axberath
 
-## One character is human, and one character is AI:
+## One character is human, and one character is AI
 
 **Rhymerosaurus:** Hi, Im in charge of the janitorial operations of Asgard, and am here to report you have a sewage backup in sector 14G.
 
@@ -450,8 +450,7 @@ You...are confident aren't you... alright...here we go...
 3...2...1...
 
 he holds up a balled fist
-
-ROCK!
+!
 
 **Rhymerosaurus:** Paper!
 
