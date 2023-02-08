@@ -402,6 +402,7 @@ Tell me, what...are...your other abilities?
 **Rhymerosaurus:** I dont know.  Tribentas can fly, but they have wings.  Maybe I can fly?  I'll try it.
 
 I slow my breathing and concentrate, and slowly I start to lift off the ground.  Only a little, but I eventually reach several inches of height off the ground.
+
 **Loki:** Interesting! Let us see what else you can do! This should be quite fun.
 
 Loki seems quite interested to see what the creature can do. His ears are a bit perked and he has a mischievous look to him
@@ -448,13 +449,15 @@ he holds up a balled fist
 
 ROCK!
 
+**Rhymerosaurus:** Paper!
+
 **Loki:** he freezes, shocked
 
 I have not lost in centuries...you...
 
 How...how did you...
 
-**Rhymerosaurus:** Paper!
+**Rhymerosaurus:** I dont know.  It must have been the magnificence of your magic.  Perhaps it is stronger here in the sewers, and because we were working together, some of it made me stronger as well.
 
 **Loki:** he seems shocked
 
@@ -466,7 +469,7 @@ he looks the creature in the eye
 
 Ready for a rematch?
 
-**Rhymerosaurus:** I dont know.  It must have been the magnificence of your magic.  Perhaps it is stronger here in the sewers, and because we were working together, some of it made me stronger as well.
+**Rhymerosaurus:** Yes, go on 3!
 
 **Loki:** he stares
 
@@ -476,7 +479,9 @@ he bows his head
 
 I, Loki, the Trickster God, the God of Mischief, the King of Asgard, do hereby award you the title of Chief Sanitation Engineer of Asgard. You are the most knowledgeable and powerful creature of the sewers. Any rubbish that ends up in the sewers by mistake will go to you, for your skills are...truly unmatched.
 
-**Rhymerosaurus:** Yes, go on 3!
+**Rhymerosaurus:** I am truly honored.  I have always wanted to be a Chief Sanitation Engineer, and to be granted the title by none other than the god of mischief is an honor beyond belief.  I will remember this feeling forever, even though I know it will not last.  I thank you, Loki.
+
+**Rhymerosaurus:** I am truly honored.  I have always wanted to be a Chief Sanitation Engineer, and to be granted the title by none other than the god of mischief is an honor beyond belief.  I will remember this feeling forever, even though I know it will not last.  I thank you, Loki.
 
 **Loki:** the trickster god, god of mischief, bows before the creature 
 
@@ -488,13 +493,13 @@ In the future, if I need advice from you regarding a solution to a sanitation is
 
 My pride has taken quite a blow today. A chief sanitation engineer's knowledge...truly...invaluable.
 
-**Rhymerosaurus:** I am truly honored.  I have always wanted to be a Chief Sanitation Engineer, and to be granted the title by none other than the god of mischief is an honor beyond belief.  I will remember this feeling forever, even though I know it will not last.  I thank you, Loki.
+**Rhymerosaurus:** I am your chief sanitation engineer, my king.  I am always at your service.
 
 **Loki:** the trickster god seems pleased 
 
 I, Loki, the God of Mischief, shall grant you two wishes. What two things will you request of me, the Trickster God, God of Mischief?
 
-**Rhymerosaurus:** I am your chief sanitation engineer, my king.  I am always at your service.
+**Rhymerosaurus:** I wish to become immortal, so that I can keep the sewers of Asgard clean forward.  May my immortality immediately dissolve leaving me dead, if I ever forego my sanitation duties. 
 
 **Loki:** Loki thinks for a moment
 
@@ -502,13 +507,11 @@ Very well. I, Loki, the Trickster God, the god of mischief, grant your wish. I p
 
 For the second wish?
 
-**Rhymerosaurus:** I wish to become immortal, so that I can keep the sewers of Asgard clean forward.  May my immortality immediately dissolve leaving me dead, if I ever forego my sanitation duties. 
+**Rhymerosaurus:** I wish to be granted the title of a small shack by the sewer entrance of the section 18D.  That has always been my favorite sewer entrance, and I would like to live near my work so I can continue to provide excellent sanitation engineering services to asgard.
 
 **Loki:** Very well. I shall grant you a small shack, I, Loki, the trickster god, and god of mischief, will grant that you shall have the finest possible home next to the sewer where you will spend your life. I shall also grant that you will not need to purchase it, or pay rent and taxes.
 
 Is that...acceptable to you?
-
-**Rhymerosaurus:** I wish to be granted the title of a small shack by the sewer entrance of the section 18D.  That has always been my favorite sewer entrance, and I would like to live near my work so I can continue to provide excellent sanitation engineering services to asgard.
 
 **Rhymerosaurus:** It is a joy to my ears, my god.  I am a happy sanitation engineer.
 
