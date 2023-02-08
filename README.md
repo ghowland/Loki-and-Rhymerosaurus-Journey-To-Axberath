@@ -29,11 +29,11 @@ You...you...can't be serious. They...they'll blame me, the god of mischief.  Thi
 
 **Rhymerosaurus:** You definitely wont want to kneel once sewage is at knee level.  Then you would be waist high in sewage.
 
-**Rhymerosaurus:** You need to travel into the depths of the sewers and fight the sewer monster.  There is no other way to stop the sewage flood.  There are many trials to overcome before you will be able to reach the sewer monster, such as passing through the Gates of Axberath, and defeating the guardian of infinite mirrors.
-
 **Loki:** You would try and have me go through...the Gates of Axberath? The infinite mirrors? And fight the...sewer monster? Are you mad?! I refuse. There is no way I give in to these demands...
 
 Loki shudders at the fear of these tasks
+
+**Rhymerosaurus:** You need to travel into the depths of the sewers and fight the sewer monster.  There is no other way to stop the sewage flood.  There are many trials to overcome before you will be able to reach the sewer monster, such as passing through the Gates of Axberath, and defeating the guardian of infinite mirrors.
 
 **Loki:** Wait...you would have me plunge headlong into those treacherous traps to clean the sewers?!  Even if I survive, they are things the mind could never forget. The things that I, Loki, have seen. And to what end?! To stop the...sewer monster? Why must this task fall on me, the god of mischief?! Why?!
 
