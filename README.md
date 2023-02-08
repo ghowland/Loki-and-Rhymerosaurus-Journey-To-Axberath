@@ -483,8 +483,6 @@ I, Loki, the Trickster God, the God of Mischief, the King of Asgard, do hereby a
 
 **Rhymerosaurus:** I am truly honored.  I have always wanted to be a Chief Sanitation Engineer, and to be granted the title by none other than the god of mischief is an honor beyond belief.  I will remember this feeling forever, even though I know it will not last.  I thank you, Loki.
 
-**Rhymerosaurus:** I am truly honored.  I have always wanted to be a Chief Sanitation Engineer, and to be granted the title by none other than the god of mischief is an honor beyond belief.  I will remember this feeling forever, even though I know it will not last.  I thank you, Loki.
-
 **Loki:** the trickster god, god of mischief, bows before the creature 
 
 I, Loki, the Trickster God, have a request of you in return.
